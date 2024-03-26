@@ -9,7 +9,7 @@ The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tr
 [Xin Su*](http://jszy.whu.edu.cn/xinsu_rs/zh_CN/index.htm),
 [Jie Li*](http://jli89.users.sgg.whu.edu.cn/),
 [Yi Xiao](https://xy-boy.github.io/),
-[Jiang He](https://jianghe96.github.io/), and 
+[Jiang He](https://jianghe96.github.io/),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/)
 - Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm)
 
@@ -26,30 +26,19 @@ git clone https://github.com/YZCU/PHTrack.git
  > * Torchvision 0.15.0
  > * numpy 1.25.0 
  - **Note:** Please check the `requirement.txt` for environmental details.
-## Download datasets
-- **RGB/Hyperspectral training/test datasets:**
- > * [GOT-10K](http://got-10k.aitestunion.com/downloads), 
- > [DET](http://image-net.org/challenges/LSVRC/2017/), 
- > [LaSOT](https://cis.temple.edu/lasot/),
- > [COCO](http://cocodataset.org),
- > [YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6),
- > [VID](http://image-net.org/challenges/LSVRC/2017/),
- > [HOTC](https://www.hsitracking.com/hot2022/)
-- **Note:** Please download these datasets and C.
 
-## Usage
 ### Quick Start
 - **Step I.**  Download the RGB/Hyperspectral training/test datasets:
 [GOT-10K](http://got-10k.aitestunion.com/downloads), 
 [DET](http://image-net.org/challenges/LSVRC/2017/), 
 [LaSOT](https://cis.temple.edu/lasot/),
 [COCO](http://cocodataset.org),
-[YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6),
+[YOUTUBEBB (code: v7s6)](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg),
 [VID](http://image-net.org/challenges/LSVRC/2017/),
 [HOTC](https://www.hsitracking.com/hot2022/),
 and put them in the path of `train_dataset/dataset_name/`.
-- **Step II.**  Download the pretrained model: [pretrained model](https://pan.baidu.com/s/1ZW61I7tCe2KTaTwWzaxy0w) to `pretrained_models/`.
-- **Step III.**  Run the `setup.py` to set the path.
+- **Step II.**  For the train session, please download the [foundation model] (https:) to `pretrained_models/`.
+- **Step III.**  Run the `setup.py` to set the local path.
 - **Step IV.**  To train a model, switch directory to `tools/` and run `train.py` with the desired configs.
 ### Only Test
 - **Step I.**  We will release the trained [PHTrack model](https://). Please put it to the path of `tools/snapshot/`.
