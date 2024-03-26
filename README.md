@@ -11,7 +11,7 @@ The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tr
 [Yi Xiao](https://xy-boy.github.io/),
 [Jiang He](https://jianghe96.github.io/),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/)
-- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm)
+- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm))
 
  
 ##  Install
@@ -37,7 +37,7 @@ git clone https://github.com/YZCU/PHTrack.git
 [VID](http://image-net.org/challenges/LSVRC/2017/),
 [HOTC](https://www.hsitracking.com/hot2022/),
 and put them in the path of `train_dataset/dataset_name/`.
-- **Step II.**  For the train session, please download the [foundation model] (https:) to `pretrained_models/`.
+- **Step II.**  For the train session, please download the [foundation model](https:) to `pretrained_models/`.
 - **Step III.**  Run the `setup.py` to set the local path. You can also run `python setup.py` directly.
 - **Step IV.**  To train a model, switch directory to `tools/` and run `train.py` with the desired configs. --`cd tools/, python train.py`
 - **Step V.**  For the test session, the well-trained [PHTrack model](https://) will be released. Please put it to the path of `tools/snapshot/`.
