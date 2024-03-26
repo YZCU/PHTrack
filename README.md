@@ -92,11 +92,11 @@ and put them in the path of `train_dataset/dataset_name/`.
 - Qualitative results
  ![image](/fig/12.jpg)
  
-:heart:For more comprehensive results, please review the upcoming manuscript:heart:
+:heart:For more comprehensive results, please review the upcoming manuscript.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
-Email: yuzeng_chen@whu.edu.cn 
+Email: yuzeng_chen@whu.edu.cn
  
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support.
