@@ -56,6 +56,7 @@ and put them in the path of `train_dataset/dataset_name/`.
 -->
 ## Results
 - Comparison with SOTA hyperspectral trackers
+- *Characteristics and results of hyperspectral trackers*
  ![image](/fig/5.jpg)
 - *Hyperspectral videos: (a) Precision plot. (b) Success plot*
  ![image](/fig/6.jpg)
