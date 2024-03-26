@@ -11,7 +11,7 @@ The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tr
 [Yi Xiao](https://xy-boy.github.io/),
 [Jiang He](https://jianghe96.github.io/),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/)
-- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm))
+- Affiliations: Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm))
 
  
 ##  Install
