@@ -79,9 +79,9 @@ and put them in the path of `train_dataset/dataset_name/`.
  ![image](/fig/4.jpg)
  
 - Attribute-based Evaluations
-- *Pre results for each attribute and overall*
+- *Pre scores for each attribute and overall*
  ![image](/fig/8.jpg)
-- *Suc results for each attribute and overall*
+- *Suc scores for each attribute and overall*
  ![image](/fig/9.jpg)
 
 - *Precision plots for each attribute and overall*
