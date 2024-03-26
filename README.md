@@ -63,16 +63,16 @@ and put them in the path of `train_dataset/dataset_name/`.
 - *Accuracy-speed comparisons. (a) Pre vs. FPS. (b) Suc vs. FPS*
  ![image](/fig/7.jpg)
  
-- Comparison with SOTA RGB trackers
+- Comparison with SOTA RGB trackers (overall)
  ![image](/fig/0.jpg)
  
-- Comparison with hand-crafted feature-based trackers
+- Comparison with hand-crafted feature-based RGB trackers
 - *RGB videos: (a) Precision plot. (b) Success plot*
  ![image](/fig/1.jpg)
 - *False color videos: (a) Precision plot. (b) Success plot*
  ![image](/fig/2.jpg)
  
-- Comparison with deep feature-based trackers
+- Comparison with deep feature-based RGB trackers
 - *RGB videos: (a) Precision plot. (b) Success plot*
  ![image](/fig/3.jpg)
 - *False color videos: (a) Precision plot. (b) Success plot*
