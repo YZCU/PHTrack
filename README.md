@@ -24,7 +24,7 @@ git clone https://github.com/YZCU/PHTrack.git
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0 
- - **Note:** Please check the `requirement.txt` for details.
+ - **Note:** Please check the `requirement.txt` for environmental details.
 ## Download datasets
 - **RGB/Hyperspectral training/test datasets:**
  > * [GOT-10K](http://got-10k.aitestunion.com/downloads), 
