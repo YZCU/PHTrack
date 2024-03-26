@@ -1,4 +1,4 @@
-# PHTrack (Under Review) ~~Hopefully good things would happen~
+# PHTrack (Under Review) ~♪ Hopefully something good will happen for all of us ♪~
 
 
 The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tracking**"
