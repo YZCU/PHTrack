@@ -1,8 +1,6 @@
 # PHTrack (Under Review)   ♪ Hopefully something good will happen for all of us ♪ 
 
-
-
-The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tracking**"
+The official implementation for "**PHTrack**"
 
 - Authors: 
 [Yuzeng Chen](https://yzcu.github.io/), 
@@ -47,14 +45,7 @@ and put them in the path of `train_dataset/dataset_name/`.
 - **Step VIII.**   For the evaluation session, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precise evaluations.
 - **Step IX.**  Download the file of the `tracking results` and put it into the path of `\tracker_benchmark_v1.0\results\results_OPE_PHTrack`.
 - **Step X.**  Evaluation of the PHTrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
-<!-- 
-## Abstract
->Hyperspectral (HS) video shoots continuous spectral information of objects, enabling trackers to identify materials effectively. It is expected to overcome the inherent limitations of RGB and multi-modal video tracking, such as finite spectral cues and cumbersome modality alignment. However, challenges in the current HS tracking field mainly include data anxiety, band gap, and huge volume. In this study, drawing inspiration from prompt learning in language models, we propose the Prompting for Hyperspectral Video Tracking (PHTrack) framework, which learns prompts to adapt the pre-trained foundation model, tackling data anxiety and achieving stable performance and efficiency. First, a modality prompter (MOP) is proposed to capture rich spectral cues from HS images and bridge the band gap for improved model adaptation and knowledge enhancement. Additionally, a distillation prompter (DIP) is developed to integrate cross-modal features by refining adjacent modality information. Notably, PHTrack follows the feature-level fusion fashion, addressing the challenge of processing large data volumes more effectively than traditional decision-level fusion methods. Extensive experiments validate the effectiveness of the proposed method and provide valuable insights for future research. The code will be available at [https://github.com/YZCU/PHTrack](https://github.com/YZCU/PHTtack).
--->
-<!-- 
-## Overview
- ![image](/fig/df.jpg)
--->
+
 ## Results
 - Comparison with SOTA hyperspectral trackers
 - *Characteristics and results of hyperspectral trackers*
