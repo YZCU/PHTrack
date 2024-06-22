@@ -15,7 +15,7 @@ git clone https://github.com/YZCU/PHTrack.git
  > * numpy 1.25.0
 
 
-:heart:For more comprehensive results, please review the upcoming manuscript.
+For more comprehensive results and codes, please review the upcoming manuscript.
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
 Email: yuzeng_chen@whu.edu.cn
