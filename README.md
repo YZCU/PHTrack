@@ -12,7 +12,9 @@ git clone https://github.com/YZCU/PHTrack.git
  > * Python 3.9.18
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
- > * numpy 1.25.0 
+ > * numpy 1.25.0
+
+
 :heart:For more comprehensive results, please review the upcoming manuscript.
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
