@@ -1,4 +1,4 @@
-# PHTrack (Under Review)
+# PHTrack: Prompting for Hyperspectral Video Tracking
 The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tracking**"
 
 # Abstract
