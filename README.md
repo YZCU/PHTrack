@@ -15,14 +15,7 @@ git clone https://github.com/YZCU/PHTrack.git
  > * numpy 1.25.0
 
 ## Usage
-- Download the RGB/Hyperspectral training/test datasets:
- > * [GOT-10K](http://got-10k.aitestunion.com/downloads)
- > * [DET](http://image-net.org/challenges/LSVRC/2017/)
- > * [LaSOT](https://cis.temple.edu/lasot/)
- > * [COCO](http://cocodataset.org)
- > * [YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6)
- > * [VID](http://image-net.org/challenges/LSVRC/2017/)
->  * [HOTC](https://www.hsitracking.com/hot2020/)
+- Download the RGB/Hyperspectral training/test datasets [GOT-10K](http://got-10k.aitestunion.com/downloads), [DET](http://image-net.org/challenges/LSVRC/2017/), [LaSOT](https://cis.temple.edu/lasot/), [COCO](http://cocodataset.org), [YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6), [VID](http://image-net.org/challenges/LSVRC/2017/), [HOTC](https://www.hsitracking.com/hot2020/).
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code: abcd) to `pretrained_models/`.
 - Please train the PHTrack based on the [foundation model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code: abcd).
 - The generated model will be saved to the path of `tools/snapshot`.
