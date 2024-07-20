@@ -1,6 +1,8 @@
 # PHTrack (Under Review)
-
 The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tracking**"
+
+# Abstract
+Hyperspectral (HS) video captures continuous spectral information of objects, enhancing material identification in tracking tasks. It is expected to overcome the inherent limitations of RGB and multi-modal tracking, such as finite spectral cues and cumbersome modality alignment. However, HS tracking faces challenges like data anxiety, band gaps, and huge volumes. In this study, inspired by prompt learning in language models, we propose the Prompting for Hyperspectral Video Tracking (PHTrack) framework. PHTrack learns prompts to adapt foundation models, mitigating data anxiety and enhancing performance and efficiency. First, the modality prompter (MOP) is proposed to capture rich spectral cues and bridge band gaps for improved model adaptation and knowledge enhancement. Additionally, the distillation prompter (DIP) is developed to refine cross-modal features. PHTrack follows feature-level fusion, effectively managing huge volumes compared to traditional decision-level fusion fashions. Extensive experiments validate the proposed framework, offering valuable insights for future research. The code and data will be available at https://github.com/YZCU/PHTrack.
 ##  Install
 ```
 git clone https://github.com/YZCU/PHTrack.git
