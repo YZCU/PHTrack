@@ -1,19 +1,16 @@
 # PHTrack (Under Review)
 
-The official implementation for "**PHTrack**"
-
+The official implementation for "**PHTrack: Prompting for Hyperspectral Video Tracking**"
 ##  Install
 ```
 git clone https://github.com/YZCU/PHTrack.git
 ```
-
 ## Environment
  > * CUDA 11.8
  > * Python 3.9.18
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0
-
 ## Usage
 - Download the RGB/Hyperspectral training/test datasets [GOT-10K](http://got-10k.aitestunion.com/downloads), [DET](http://image-net.org/challenges/LSVRC/2017/), [LaSOT](https://cis.temple.edu/lasot/), [COCO](http://cocodataset.org), [YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6), [VID](http://image-net.org/challenges/LSVRC/2017/), [HOTC](https://www.hsitracking.com/hot2020/).
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code: abcd) to `pretrained_models/`.
@@ -43,7 +40,6 @@ If you have any questions or suggestions, feel free to contact me.
 Email: yuzeng_chen@whu.edu.cn
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support.
-
 
 ```
 @ARTICLE{,
