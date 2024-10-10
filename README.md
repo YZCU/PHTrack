@@ -45,14 +45,16 @@ Email: yuzeng_chen@whu.edu.cn
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support.
 
 ```
-@ARTICLE{,
-  author={},
-  journal={}, 
-  title={}, 
-  year={},
+@ARTICLE{10680554,
+  author={Chen, Yuzeng and Tang, Yuqi and Su, Xin and Li, Jie and Xiao, Yi and He, Jiang and Yuan, Qiangqiang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={PHTrack: Prompting for Hyperspectral Video Tracking}, 
+  year={2024},
   volume={},
   number={},
-  pages={},
+  pages={1-1},
+  keywords={Feature extraction;Video tracking;Photonic band gap;Adaptation models;Visualization;Correlation;Anxiety disorders;Hyperspectral video tracking;Prompt learning;Self-expression model;Material information},
+  doi={10.1109/TGRS.2024.3461316}}
   keywords={},
   doi={}
 ```
